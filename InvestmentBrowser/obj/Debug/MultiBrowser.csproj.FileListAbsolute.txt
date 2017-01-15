@@ -1,0 +1,13 @@
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.exe
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.pdb
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\bin\Debug\InvestmentBrowser.exe.manifest
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\bin\Debug\InvestmentBrowser.application
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\bin\Debug\InvestmentBrowser.exe
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\bin\Debug\InvestmentBrowser.pdb
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.MultiBrowser.resources
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.Properties.Resources.resources
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.WebBrowserPanel.resources
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\MultiBrowser.csproj.GenerateResource.Cache
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.exe.manifest
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\InvestmentBrowser.application
+C:\Users\Amine\Documents\Visual Studio 2015\Projects\InvestmentBrowser\InvestmentBrowser\obj\Debug\MultiBrowser.csprojResolveAssemblyReference.cache
